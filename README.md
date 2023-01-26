@@ -1,6 +1,6 @@
  Hello Guys 👋
  
- My name is Zakaria Hibaoui , a Computer engineering student at the Higher School of Technology in Fes
+
 
 💬 Ask me anything about the technologies I use below :
 
