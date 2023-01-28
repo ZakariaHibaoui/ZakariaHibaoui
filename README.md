@@ -36,3 +36,5 @@ Contact:
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.youtube.com/watch?v=3yUa0_UgXmo" />
 
 <a href="emailto:zakariahibaoui2002@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+![snake animation](https://github.com/ZakariaHibaoui/ZakariaHibaoui/blob/output/github-contribution-grid-snake2.svg)
