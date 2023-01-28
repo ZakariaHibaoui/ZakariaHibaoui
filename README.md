@@ -37,4 +37,4 @@ Contact:
 
 <a href="emailto:zakariahibaoui2002@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-![snake animation](https://github.com/ZakariaHibaoui/ZakariaHibaoui/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ZakariaHibaoui/ZakariaHibaoui/blob/output/dist/github-contribution-grid-snake2.svg)
